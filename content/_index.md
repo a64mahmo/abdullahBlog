@@ -1,17 +1,8 @@
 ---
-title: My Site
+
 toc: false
 ---
 
-This is the landing page.
-
-## Explore
-
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+# HELLO! 
+Welcome to my blog! my name is abdullah!
+I am a mssive goff you will see bunch of things in this iste that i like to talk about some are coool (imo) others are just thinks i learend 
